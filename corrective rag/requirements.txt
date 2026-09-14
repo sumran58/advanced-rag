@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+faiss-cpu
+pypdf
+pydantic
+tavily-python
+langchain-groq
+sentence-transformers==6.0.0
+langchain-huggingface==1.2.2
